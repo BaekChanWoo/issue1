@@ -4,7 +4,7 @@ public class Main {
 	public static void main(String[] args) {
 		System.out.println("백찬우");
 		world.run();
-		Hello.run();
+		world.run2();
 	}
 
 }
